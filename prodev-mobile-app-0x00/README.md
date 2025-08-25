@@ -21,10 +21,10 @@
 ## Reset Project Observations
 
 ### Command Used:
-```bash
+
 npm run reset-project
 
-### What Happened:What Happened:
+### What Happened:
 -[Document your observations here]
 -[Note any files that were modified or removed]
 -[Describe the state of the project after reset]
